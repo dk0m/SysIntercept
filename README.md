@@ -12,3 +12,8 @@ This can be especially useful for reverse engineers and malware analysts trying 
 ## Showcase
 
 ![SysIntercept](https://i.imgur.com/27q6YZu.png)
+
+## Credits
+[Instrumention Callbacks](https://github.com/Deputation/instrumentation_callbacks) by Deputation.
+
+[Detecting Manual Syscalls From User Mode](https://winternl.com/detecting-manual-syscalls-from-user-mode/) by Winternl.
